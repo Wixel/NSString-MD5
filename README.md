@@ -10,7 +10,7 @@ This is a simple implementation of the MD5 algorithm on top of the NSString clas
 3. Call the generateMD5 class method on NSString
 
 ```objc
-NSString *hash = [NSString alloc] generateMD5:@"your string goes here"];
+NSString *hash = [[NSString alloc] generateMD5:@"your string goes here"];
 ```
 
 Feel free to contribute! 
