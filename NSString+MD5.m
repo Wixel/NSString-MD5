@@ -2,7 +2,7 @@
 //  NSString+MD5.m
 //
 //  Created by Sean Nieuwoudt on 2013/07/19.
-//  Copyright (c) 2013 Perk. All rights reserved.
+//  Copyright (c) 2013 Wixel. All rights reserved.
 //
 
 #import "NSString+MD5.h"
